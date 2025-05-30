@@ -2,7 +2,7 @@
 
 **`Estudante do alura`**
 
-Me chamo Livia Hadassa Sadagurschi, tenho 15 anos e sou natural de São Paulo.Curso o ensinomédiona escola Profº João Evangelista Costa. Atualmente estou aprendendo como desenvolver um portfólio usando HTML e CSS, Gosto de tecnologia e procuro me aprimorar cada vez mais.
+Me chamo Livia Hadassa Sadagurschi, tenho 15 anos e sou natural de São Paulo. Curso o ensino médio na escola Profº João Evangelista Costa. Atualmente estou aprendendo como desenvolver um portfólio usando HTML e CSS, Gosto de tecnologia e procuro me aprimorar cada vez mais.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -61,7 +61,7 @@ Me chamo Livia Hadassa Sadagurschi, tenho 15 anos e sou natural de São Paulo.Cu
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviasdg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
